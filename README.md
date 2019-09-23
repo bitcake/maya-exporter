@@ -29,6 +29,13 @@ Because we love you all so much and we hate when things do not get explained, we
 # Videos
 
 How to Install:
+{% include youtube_player.html id="7ahD_PIYvMM" %}
+
 How to use the basic functions of the plugin:
+{% include youtube_player.html id="6uVL2DkUHsM" %}
+
 Using the Timeline Options and the Ignore Bake on Joints feature:
+{% include youtube_player.html id="hvganwozrRo" %}
+
 Exporting Mesh options and Deleting Joints:
+{% include youtube_player.html id="nJz-ggMKZRI" %}
