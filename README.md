@@ -44,6 +44,9 @@ Because we love you all so much and we hate when things do not get explained, we
 {% include youtube_player.html id="nJz-ggMKZRI" %}
 <br/>
 
+# [Documentation Page](documentation.md)
+<br/>
+
 # Get it now!
 {% include itchio_embed.html %}
 <br/>
