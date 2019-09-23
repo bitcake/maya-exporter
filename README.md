@@ -22,10 +22,13 @@ This is a generic Maya tool that works with any engine that supports `.fbx` file
 - You can Delete entire joint chains with a certain Tag
 - You can choose to export All Meshes, No Meshes (animation data on joints only), Just Skinned Meshes, Everything Except Skinned Meshes.
 
-# BitCake Exporter is the tool you never knew you wanted!
+**BitCake Exporter is the tool you never knew you wanted!**
 
 Because we love you all so much and we hate when things do not get explained, we've made some tutorial videos on how to use this tool! Oh and btw, this video was made using real-world assets of our next game: DeMagnete! Se we'll trust you don't go around leaking it to Kotaku! ;)
 
+# Videos
 
-
-
+How to Install:
+How to use the basic functions of the plugin:
+Using the Timeline Options and the Ignore Bake on Joints feature:
+Exporting Mesh options and Deleting Joints:
