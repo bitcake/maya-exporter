@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## BitCake's Maya Exporter
 
-You can use the [editor on GitHub](https://github.com/bitcake/maya-exporter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Install Instructions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Copy the entire `/maya/` folder into your `/documents/maya/` folder
+2. Open up the script editor in Maya and type (on the mel tab):
+  - `source "bitcake_exporter"; bitcake_exporter_install;`
+3. Two buttons will be automatically created on your current shelf with the correct Icons.
 
-### Markdown
+# How to use
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The first button will open a window with options for you to choose from when exporting your animation.
+Don't forget to choose your `character` and `animation` names! The `export directory` can be inside Unity's Asset folder.
+Once you choose the export options, click the `Export` button at the end and a `.fbx` file will be saved to the `Export Directory`.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bitcake/maya-exporter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The second button is a "quick export" button. Once pressed, it will export the `.fbx` with your saved export preferences.
