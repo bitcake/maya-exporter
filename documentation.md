@@ -10,7 +10,19 @@
     ```
 1. Two buttons will be automatically created on your current shelf with the correct Icons.
 
-# How to Use
+
+# The Shelf Buttons
+
+![BitCake Exporter Shelf Buttons](images/shelfbuttons.png)
+
+The first button will open a window with options for you to choose from when exporting your animation.
+Don't forget to choose your `character` and `animation` names! The `export directory` can be inside your engine's project folder.
+Once you choose the export options, click the `Export` button at the end and a `.fbx` file will be saved to the `Export Directory`.
+
+The second button is a "quick export" button. Once pressed, it will export the `.fbx` with your saved export preferences.
+
+
+# The Exporter UI
 
 ![BitCake Exporter Screenshot](images/screenshot.png)
 
