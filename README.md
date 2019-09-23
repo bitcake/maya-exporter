@@ -29,25 +29,24 @@ Because we love you all so much and we hate when things do not get explained, we
 # Videos
 
 ### How to Install:
-> {% include youtube_player.html id="7ahD_PIYvMM" %}
+{% include youtube_player.html id="7ahD_PIYvMM" %}
 <br/>
 
 ### How to use the basic functions of the plugin:
-> {% include youtube_player.html id="6uVL2DkUHsM" %}
+{% include youtube_player.html id="6uVL2DkUHsM" %}
 <br/>
 
 ### Using the Timeline Options and the Ignore Bake on Joints feature:
-> {% include youtube_player.html id="hvganwozrRo" %}
+{% include youtube_player.html id="hvganwozrRo" %}
 <br/>
 
 ### Exporting Mesh options and Deleting Joints:
-> {% include youtube_player.html id="nJz-ggMKZRI" %}
+{% include youtube_player.html id="nJz-ggMKZRI" %}
 <br/>
 
-<br/>
 # Get it now!
 {% include itchio_embed.html %}
-
 <br/>
+
 # Found a bug? Got a suggestion?
 ### [Open an issue!](https://github.com/bitcake/maya-exporter/issues)
