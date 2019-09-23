@@ -39,3 +39,7 @@ Using the Timeline Options and the Ignore Bake on Joints feature:
 
 Exporting Mesh options and Deleting Joints:
 {% include youtube_player.html id="nJz-ggMKZRI" %}
+
+# Get it now!
+
+<iframe src="https://itch.io/embed/484705" height="167" width="552" frameborder="0"></iframe>
