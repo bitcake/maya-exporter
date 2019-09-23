@@ -52,4 +52,4 @@ Ignore Bake | All joints that include these tags (separated by `,`) won't be bak
 
 ---
 
-*These fields are saved to the scene file. By doing so, it is not needed to retype them everytime the exporter is opened.*
+*All these fields are saved to the scene file. By doing so, it is not needed to retype them everytime the exporter is opened.*
