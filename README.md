@@ -3,9 +3,9 @@
 # Install Instructions
 
 1. Copy the entire `/maya/` folder into your `/documents/maya/` folder
-2. Open up the script editor in Maya and type (on the mel tab):
-  - `source "bitcake_exporter"; bitcake_exporter_install;`
-3. Two buttons will be automatically created on your current shelf with the correct Icons.
+1. Open up the script editor in Maya and type (on the mel tab):
+    - `source "bitcake_exporter"; bitcake_exporter_install;`
+1. Two buttons will be automatically created on your current shelf with the correct Icons.
 
 # How to use
 
