@@ -1,16 +1,31 @@
-## BitCake's Maya Exporter
+## BitCake's Maya to Engine Exporter
 
-# Install Instructions
+**BitCake Game Animation Exporter is a tool designed to improve the life of your Maya Animator.**
 
-1. Copy the entire `/maya/` folder into your `/documents/maya/` folder
-1. Open up the script editor in Maya and type (on the mel tab):
-    - `source "bitcake_exporter"; bitcake_exporter_install;`
-1. Two buttons will be automatically created on your current shelf with the correct Icons.
+It does that by automating a lot of tedious small tasks that eat up a lot of time that could've been better spent elsewhere.
+Yeah, that's right, we take care of the boring stuff so you can keep animating!
 
-# How to use
+This is a generic Maya tool that works with any engine that supports `.fbx` files. (Don't try to use it on RPG Maker)
 
-The first button will open a window with options for you to choose from when exporting your animation.
-Don't forget to choose your `character` and `animation` names! The `export directory` can be inside Unity's Asset folder.
-Once you choose the export options, click the `Export` button at the end and a `.fbx` file will be saved to the `Export Directory`.
+# BitCake Game Animation Exporter will
+- Import all your references
+- Clear all the namespaces
+- Bake all Joints AND Mesh animations (visibility animation only for meshes)
+- Delete all control curves
+- Save the cleaned file with a _baked suffix
+- Save both the File Name and Export Directory for the resulting .fbx in the animation's .ma (This right here is worth the price alone if I may say!)
+- Serve you some coffee and do foot massages (still in development)
 
-The second button is a "quick export" button. Once pressed, it will export the `.fbx` with your saved export preferences.
+## You can also...
+- Choose to either bake the entire selected timeline or just a section (start and end frames)
+- You can Ignore baking animation on joints with a certain Tag
+- You can Delete entire joint chains with a certain Tag
+- You can choose to export All Meshes, No Meshes (animation data on joints only), Just Skinned Meshes, Everything Except Skinned Meshes.
+
+# BitCake Exporter is the tool you never knew you wanted!
+
+Because we love you all so much and we hate when things do not get explained, we've made some tutorial videos on how to use this tool! Oh and btw, this video was made using real-world assets of our next game: DeMagnete! Se we'll trust you don't go around leaking it to Kotaku! ;)
+
+
+
+
