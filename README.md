@@ -42,4 +42,4 @@ Exporting Mesh options and Deleting Joints:
 
 # Get it now!
 
-<iframe src="https://itch.io/embed/484705" height="167" width="552" frameborder="0"></iframe>
+{% include itchio_embed.html %}
