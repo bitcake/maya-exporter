@@ -16,6 +16,8 @@
 
 ## Main
 
+**Field** | Description
+--- | ---
 **Character** | The character part of the exported fbx filename
 **Animation** | The animation part of the exported fbx filename
 **Export Directory** | The directory where the exported fbx file will be saved on
@@ -26,11 +28,15 @@
 
 ### Frames
 
+**Field** | Description
+--- | ---
 **Use timeline range** | All frames in the entire timeline will be used when exporting
 **Set start and end frames** | Only frames inside `Start Frame` and `End Frame` frames will be used when exporting
 
 ### Meshes
 
+**Field** | Description
+--- | ---
 **No mesh** | Only joints and animation data will be exported
 **All meshes** | All meshes in the scene will be included in the export
 **Selected meshes** | Only selected meshes will be included in the export
@@ -39,6 +45,8 @@
 
 ### Joints
 
+**Field** | Description
+--- | ---
 **Delete** | All joints that include these tags (separated by `,`) will be deleted on export
 **Ignore Bake** | All joints that include these tags (separated by `,`) won't be baked to the exported animation
 
