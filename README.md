@@ -45,6 +45,7 @@ Because we love you all so much and we hate when things do not get explained, we
 <br/>
 
 # [Documentation Page](documentation.md)
+With installation and usage instructions.
 <br/>
 
 # Get it now!
