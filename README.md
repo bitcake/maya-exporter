@@ -44,3 +44,6 @@ Because we love you all so much and we hate when things do not get explained, we
 # Get it now!
 
 {% include itchio_embed.html %}
+
+# Found a bug? Got a suggestion?
+### (Open an issue!)[https://github.com/bitcake/maya-exporter/issues]
