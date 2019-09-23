@@ -1,13 +1,13 @@
-## BitCake's Maya to Engine Exporter
+## BitCake's Maya to Engine Animation Exporter
 
-**BitCake Game Animation Exporter is a tool designed to improve the life of your Maya Animator.**
+**BitCake Exporter is a tool designed to improve the life of your Maya Animator.**
 
 It does that by automating a lot of tedious small tasks that eat up a lot of time that could've been better spent elsewhere.
 Yeah, that's right, we take care of the boring stuff so you can keep animating!
 
 This is a generic Maya tool that works with any engine that supports `.fbx` files. (Don't try to use it on RPG Maker)
 
-# BitCake Game Animation Exporter will
+# BitCake Exporter will
 - Import all your references
 - Clear all the namespaces
 - Bake all Joints AND Mesh animations (visibility animation only for meshes)
@@ -21,6 +21,10 @@ This is a generic Maya tool that works with any engine that supports `.fbx` file
 - You can Ignore baking animation on joints with a certain Tag
 - You can Delete entire joint chains with a certain Tag
 - You can choose to export All Meshes, No Meshes (animation data on joints only), Just Skinned Meshes, Everything Except Skinned Meshes.
+
+# Get it now!
+
+{% include itchio_embed.html %}
 
 **BitCake Exporter is the tool you never knew you wanted!**
 
@@ -40,6 +44,6 @@ Using the Timeline Options and the Ignore Bake on Joints feature:
 Exporting Mesh options and Deleting Joints:
 {% include youtube_player.html id="nJz-ggMKZRI" %}
 
-# Get it now!
+----
 
 {% include itchio_embed.html %}
