@@ -1,3 +1,8 @@
+---
+title: Documentation
+layout: pdf_export
+---
+
 # Install Instructions
 
 1. Copy the downloaded `maya/` folder into your preferences folder:
