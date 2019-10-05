@@ -9,6 +9,14 @@
   </head>
   <body>
     <div class="wrapper">
+      <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
+
+      <div>
+        <img src="images/logo.png" alt="BitCake Exporter">
+      </div>
+
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
+      
       <section>
 
       {{ content }}
